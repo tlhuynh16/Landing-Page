@@ -18,6 +18,11 @@ body {
     color: #F9FAF8;
 }
 
+.header-secondary, ul {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 button {
     background-color: #3882F6;
     color: white;
