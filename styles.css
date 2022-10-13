@@ -2,10 +2,10 @@ body {
     margin: 0;
 }
 
-.header {
+.top-section {
     background-color: #1F2937;
     color: #F9FAF8;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .header-logo {
