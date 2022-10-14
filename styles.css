@@ -32,7 +32,11 @@ body {
 
 .content {
     display: flex;
-    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.text {
+    width: 40%;
     
 }
 
@@ -52,3 +56,4 @@ ul {
     margin: 0px;
     align-self: center;
 }
+
