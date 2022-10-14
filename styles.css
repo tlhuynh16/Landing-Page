@@ -16,6 +16,7 @@ body {
 
 .header-logo {
     font-size: 24px;
+    font-weight: bold;
 }
 
 .hero-main {
@@ -27,6 +28,12 @@ body {
 .header-secondary, ul {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    
 }
 
 button {
