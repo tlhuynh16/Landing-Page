@@ -11,7 +11,7 @@ body {
 .header {
     display: flex;
     justify-content: space-around;
-    padding: 24px;
+    padding: 24px 24px 100px 24px;
 }
 
 .header-logo {
@@ -30,6 +30,10 @@ body {
     color: #E5E7EB;
 }
 
+.header-secondary {
+    padding: 100px;
+}
+
 .content {
     display: flex;
     justify-content: center;
@@ -37,7 +41,7 @@ body {
 
 .left-content {
     width: 40%;
-    
+
 }
 
 button {
@@ -61,4 +65,8 @@ ul {
 img {
     width: 400px;
     height: auto;
+}
+
+.section-two {
+    
 }
