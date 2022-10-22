@@ -74,7 +74,6 @@ img {
 }
 
 .section-two {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 50px;
     display: flex;
     flex-direction: column;
@@ -103,7 +102,6 @@ img {
     color: #1F2937;
     font-size: 36px;
     font-weight: light;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 75px;
     display: flex;
     flex-flow: column wrap;
@@ -114,11 +112,19 @@ img {
     width: 60%;
 }
 
+.modal-container {
+    display: flex;
+}
+
 .modal {
     background-color: #3882F6;
+    width: 500px;
+    border-radius: 10px;
 }
 
 .modal-header {
     font-weight: bold;
     font-size: 24px;
 }
+
+
