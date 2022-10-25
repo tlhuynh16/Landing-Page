@@ -1,1 +1,2 @@
 # Landing-Page
+This project is a culmination of what I have learned so far with HTML and CSS Flexbox. The content consists of pictures and text about a Kurzgesagt duck plushie that I have taken with me on many of my trips.
