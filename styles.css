@@ -65,8 +65,11 @@ ul {
 }
 
 img {
-    width: 400px;
-    height: auto;
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: #3882F6;
+    border-radius: 25px;
 }
 
 .section-two {
