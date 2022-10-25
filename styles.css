@@ -14,7 +14,7 @@ body {
 
 .header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 24px 24px 100px 24px;
 }
 
@@ -36,7 +36,7 @@ body {
 
 .content {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     
 }
 
@@ -105,7 +105,8 @@ img {
 }
 
 .quote {
-    width: 60%;
+    display: flex;
+    justify-content: center;
 }
 
 .modal-container {
