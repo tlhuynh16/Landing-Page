@@ -134,4 +134,7 @@ img {
     font-size: 18px;
     color: #E5E7EB;
     background-color:#1F2937;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
 }
