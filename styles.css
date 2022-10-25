@@ -123,11 +123,11 @@ img {
     width: 1000px;
     border-radius: 10px;
     padding: 50px;
+    display: flex;
 }
 
 .modal-container-two {
-    display: flex;
-    flex-direction: column;
+    
 }
 
 .modal-header {
