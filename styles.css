@@ -124,7 +124,7 @@ img {
     padding: 50px;
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 100px;
 }
 
 .modal-container-two {
